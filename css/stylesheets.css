@@ -12,6 +12,13 @@ body {
 ul {
 	margin: 0px;
 	padding: 0px;
+	line-height: 30px;
+}
+
+a {
+	color:antiquewhite;
+	text-decoration-line: none;
+	font-size: 26px;
 }
 
 .header{
